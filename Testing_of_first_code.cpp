@@ -14,7 +14,7 @@ int main(){
 
         std::cout << "delete successful"<< std::endl;
 
-    }
+    }else{std::cout << "error"<< std::endl;}
 
     return 0;
 }
